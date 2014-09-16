@@ -1,0 +1,22 @@
+{
+  "name": "auto-deps",
+  "version": "1.0.1",
+  "description": "extract dependencies into bower.json and package.json",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kissyteam/auto-deps.git"
+  },
+  "keywords": [
+    "kissy"
+  ],
+  "author": "weekeight",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kissyteam/auto-deps/issues"
+  },
+  "homepage": "https://github.com/kissyteam/auto-deps"
+}
